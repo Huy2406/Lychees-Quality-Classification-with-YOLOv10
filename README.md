@@ -6,7 +6,7 @@ Lychees are a popular fruit, and their quality classification is crucial for con
 The dataset used in this project consists of labeled images of lychees categorized into different quality classes. Each image contains annotations specifying the quality label.
 ##Installation
 To run the notebook and train the model, you'll need to set up your environment with the required dependencies.
-###Requirements
+### Requirements
 Python 3.8+
 Jupyter Notebook
 NumPy
@@ -15,3 +15,4 @@ TensorFlow
 Keras
 Matplotlib
 scikit-learn
+
